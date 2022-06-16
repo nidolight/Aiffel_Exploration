@@ -3,6 +3,12 @@
 
 ![image](https://user-images.githubusercontent.com/70171637/174006033-08f68add-c832-43f3-8f6a-58cb73865467.png)
 
+<div align=right>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnidolight%2FAiffel_Exploration%2F&count_bg=%23A2A2A2&title_bg=%23000000&icon=livejournal.svg&icon_color=%23DD0960&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
+
 
 |#|Node Title|Link|
 |:--:|--|:--:|
